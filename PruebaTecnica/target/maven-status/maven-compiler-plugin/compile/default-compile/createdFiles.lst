@@ -1,0 +1,6 @@
+com\example\PruebaTecnica\controller\TaskController.class
+com\example\PruebaTecnica\config\CorsConfig$1.class
+com\example\PruebaTecnica\config\CorsConfig.class
+com\example\PruebaTecnica\entity\Task.class
+com\example\PruebaTecnica\PruebaTecnicaApplication.class
+com\example\PruebaTecnica\repository\TaskRepository.class
